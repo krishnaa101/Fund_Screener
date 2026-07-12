@@ -171,7 +171,7 @@ Example:
 GET /screen?risk_profile=Balanced&category=Equity&min_score=60&top_n=5
 ```
 
-## Notes / things I'd say out loud in an interview
+## Notes :
 
 - Uses **MySQL** to match the database already used across the rest of the
   Mutual Fund Analytics Platform, rather than introducing a second engine
